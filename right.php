@@ -1,5 +1,10 @@
         <!-- Right column -->
-
+<?php
+//if(!isset($_SESSION))
+{
+//session_start();
+}
+?>
 
 <div id="col" class="noprint">
             <div id="col-in">
@@ -8,7 +13,10 @@
                 <h3>Welcome</h3>
 
                 <div id="about-me">
-                    <p>Administrator<br />
+                    <p>
+                    <?php 
+					//echo $_SESSION['Name'];
+					?>
                     </p>
               </div> <!-- /about-me -->
 

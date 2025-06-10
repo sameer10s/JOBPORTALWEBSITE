@@ -2,7 +2,7 @@
     <div id="header">
 
         <!-- Logotyp -->
-        <h1 id="logo"><a href="" title=""><strong>JOB PORTAL</strong><span></span></a></h1>
+     
         <hr class="noscreen" />          
 
         <!-- Quick links -->
